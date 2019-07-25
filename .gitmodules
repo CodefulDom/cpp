@@ -1,0 +1,4 @@
+[submodule "C-Plus-Plus-For-the-Rest-Of-Us"]
+	path = C-Plus-Plus-For-the-Rest-Of-Us
+	url = https://github.com/pirple/C-Plus-Plus-For-the-Rest-Of-Us
+	branch = master
