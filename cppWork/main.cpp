@@ -4,7 +4,7 @@ int main() {
     int planetCount = 8;
 
     planetCount++;
-    planetCount++;
+
 
     int starCount = 1;
 
