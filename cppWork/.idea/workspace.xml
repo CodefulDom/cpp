@@ -11,7 +11,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2330af8c-4691-4254-88cd-9b1f9325122b" name="Default Changelist" comment="" />
+    <list default="true" id="2330af8c-4691-4254-88cd-9b1f9325122b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cppWork" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cppWork" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +40,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -75,6 +78,10 @@
       <updated>1564068060419</updated>
       <workItem from="1564068061664" duration="2592000" />
       <workItem from="1564071098386" duration="1059000" />
+      <workItem from="1564087338957" duration="280000" />
+      <workItem from="1564106122830" duration="92000" />
+      <workItem from="1565179792796" duration="127000" />
+      <workItem from="1565179937249" duration="38000" />
     </task>
     <servers />
   </component>
